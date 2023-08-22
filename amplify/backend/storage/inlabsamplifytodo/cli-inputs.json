@@ -1,0 +1,14 @@
+{
+  "resourceName": "inlabsamplifytodo",
+  "policyUUID": "9bd60de6",
+  "bucketName": "inlabsamplifytodo",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
